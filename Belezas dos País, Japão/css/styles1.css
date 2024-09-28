@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding-left: 0;
+    background-image: url(/img/123.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.logo {
+    width: 75px;
+    height: central;
+    display: block;
+    margin: 0 auto;
+    opacity: 0.6
+}
+
+header {
+
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color: #000000d7;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.button-centralizado {
+    text-align: center;
+    font-family: fantasy;
+    background-color: rgb(237, 171, 171);
+
+}
+
+.titulo-centralizado {
+    text-align: center;
+    font-family: fantasy;
+    background-color: rgb(237, 171, 171);
+    color: rgb(0, 0, 0);
+
+}
+
+.paragrafo-centralizado {
+    text-align: center;
+    font-family: fantasy;
+    background-color: black;
+
+}
+
+.centralizado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+
+}
+
+h6 {
+    text-align: center;
+}
+
+ul li {
+    text-align: center;
+    list-style-type: disc;
+    list-style-position: inside;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h4 {
+    text-align: center;
+    font-family: fantasy;
+    background-color: rgb(237, 171, 171);
+    color: rgb(0, 0, 0);
+}
+
+.map{
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.iframe{
+    width:500;
+    height:600;
+    padding-left: 40%;
+}
+footer {
+    background-color: rgb(237, 171, 171); 
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    position: relative; 
+    width: 100%;
+    bottom: 0;
+}

@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding-left: 0;
+    background-image: url(/img/01010101.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.logo {
+    width: 75px;
+    height: central;
+    display: block;
+    margin: 0 auto;
+    opacity: 0.6
+}
+
+header {
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color: #000000d7;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.button-centralizado {
+    text-align: center;
+    font-family: fantasy;
+    background-color: rgb(237, 171, 171);
+
+}
+
+.tituto-destaque {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h4 {
+    background-color: rgb(237, 171, 171);
+}
+
+.titulo-centralizado {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    margin-left: 10%;
+    padding-right: 5%;
+}
+
+ul li {
+    margin-left: 10%;
+    padding-right: 5%;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(237, 171, 171);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.video-centralizar {
+
+    justify-content: center;
+    align-items: center;
+    margin: center;
+    display: flex;
+
+}
+    footer {
+        background-color: rgb(237, 171, 171);
+        color: rgb(0, 0, 0);
+        left: 0;
+        width: 100%;
+        text-align: center;
+    }

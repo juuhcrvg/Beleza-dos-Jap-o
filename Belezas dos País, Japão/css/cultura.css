@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding-left: 0;
+    background-image: url(/img/01010101.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.logo {
+    width: 75px;
+    height: central;
+    display: block;
+    margin: 0 auto;
+    opacity: 0.6
+}
+
+header {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.button-centralizado {
+    text-align: center;
+    font-family: fantasy;
+    background-color: rgb(237, 171, 171);
+
+}
+
+h4 {
+    background-color: rgb(237, 171, 171);
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    margin-left: 10%;
+    padding-right: 5%;
+}
+
+h5 {
+    text-align: center;
+}
+
+h3 {
+    background-color: rgb(237, 171, 171);
+}
+
+.titulo-centralizado {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.video-centralizar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 320px;
+    height: 240px;
+}
+footer {
+    background-color: rgb(237, 171, 171); 
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    position: relative; 
+    width: 100%;
+    bottom: 0;
+}
